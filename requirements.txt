@@ -40,7 +40,7 @@ datashape==0.5.4
 datasketch==1.2.5
 decorator==4.0.11
 dill==0.2.7.1
-distributed==1.16.3
+distributed==2021.10.0
 docutils==0.13.1
 dogpile.cache==0.6.1
 entrypoints==0.2.2
